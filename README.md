@@ -6,3 +6,5 @@
 - Univ   : STEKOM
 - Progdi : Tehnik Komputer
 - Jenjang : D3
+- Hobby  : Main Game
+
